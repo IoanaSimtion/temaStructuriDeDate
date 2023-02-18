@@ -131,6 +131,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fisa.h" />
+    <ClInclude Include="lista.h" />
+    <ClInclude Include="node.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="lista.txt" />
+    <Text Include="lista2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
