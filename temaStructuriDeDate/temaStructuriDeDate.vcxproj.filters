@@ -29,6 +29,27 @@
     <ClInclude Include="lista.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="V7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V14.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="lista.txt">

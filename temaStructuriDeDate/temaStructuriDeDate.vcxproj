@@ -133,6 +133,13 @@
     <ClInclude Include="fisa.h" />
     <ClInclude Include="lista.h" />
     <ClInclude Include="node.h" />
+    <ClInclude Include="V10.h" />
+    <ClInclude Include="V11.h" />
+    <ClInclude Include="V12.h" />
+    <ClInclude Include="V14.h" />
+    <ClInclude Include="V7.h" />
+    <ClInclude Include="V8.h" />
+    <ClInclude Include="V9.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="lista.txt" />
